@@ -11,11 +11,17 @@
   "author": "RBK Tunisia",
   "license": "ISC",
   "dependencies": {
+    "@material-ui/core": "^4.11.4",
     "axios": "^0.21.1",
     "express": "^4.17.1",
     "morgan": "^1.10.0",
+    "nouislider": "^15.1.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-awesome-stars-rating": "^0.4.0",
+    "react-dom": "^17.0.2",
+    "react-rating-stars-component": "^2.2.0",
+    "react-stars": "^2.2.5",
+    "save": "^2.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.3",
